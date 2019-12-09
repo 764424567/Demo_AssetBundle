@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3424855520
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: scx02.unity3d
+      Dependencies: {}
